@@ -1,0 +1,7 @@
+{
+    "users": [
+      { "id": 1, "name": "Mühendislik", "lesson":"asansör var", "kod":"rampa var" },
+      { "id": 2, "name": "Spor", "lesson":"asansör var", "kod":"rampa var" },
+      { "id": 3, "name": "Müzik", "lesson":"asansör var", "kod":"rampa var" }
+    ]
+}
